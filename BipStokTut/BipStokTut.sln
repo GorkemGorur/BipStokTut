@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BipStokTut", "BipStokTut\BipStokTut.vbproj", "{339F2D2F-69F5-458F-9A74-F2481E9747DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339F2D2F-69F5-458F-9A74-F2481E9747DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339F2D2F-69F5-458F-9A74-F2481E9747DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339F2D2F-69F5-458F-9A74-F2481E9747DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339F2D2F-69F5-458F-9A74-F2481E9747DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9E3237D-7A67-4A13-BB2C-44085241E5FF}
+	EndGlobalSection
+EndGlobal
